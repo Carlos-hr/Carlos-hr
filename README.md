@@ -3,7 +3,7 @@
 
 - 🌱 Full Stack developer currently working as **Front-End**
 
-- 📫 Entre em contato comigo **carlos.henrique17.chr@gmail.com**
+- 📫 Reach me out here: **carlos.henrique17.chr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
