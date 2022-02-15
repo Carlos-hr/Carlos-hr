@@ -1,7 +1,7 @@
-<h1 align="center">Oi 👋, meu nome é Carlos Henrique</h1>
-<h3 align="center">Desenvolvedor Front-End</h3>
+<h1 align="center">Hi 👋, my name is Carlos Henrique</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🌱 Atualmente eu estou aprendendo **Back-End**
+- 🌱 Full Stack developer currently working as **Front-End**
 
 - 📫 Entre em contato comigo **carlos.henrique17.chr@gmail.com**
 
@@ -25,4 +25,4 @@
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"               alt="express" width="40" height="40"/> </a>
 <!--   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  -->
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  </p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Carlos-hr&show_icons=true&theme=tokyonight&locale=en" alt="peustef" /></p>
