@@ -11,7 +11,6 @@
   <a href="https://www.hackerrank.com/carlos-hr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="carlos-hr" height="30" width="40" /></a>
 </p>
 
-<div align="center">
 <h3>Languages and Tools:</h3>
   <p align="center" background="white">
     <a href="https://git-scm.com/" target="_blank"> 
@@ -67,5 +66,4 @@
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
     </a>  -->
   </p>
-</div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-hr&show_icons=true&theme=tokyonight&locale=en" alt="carlos-hr" /></p>
