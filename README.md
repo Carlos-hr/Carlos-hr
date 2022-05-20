@@ -69,5 +69,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-hr&show_icons=true&theme=tokyonight&locale=en" alt="carlos-hr" height="250" />
   &nbsp;
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-hr&show_icons=true&theme=tokyonight&locale=en" height="250"/>
 </p>
