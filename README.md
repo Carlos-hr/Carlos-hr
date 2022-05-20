@@ -65,8 +65,7 @@
 
 <h3 align="center">⚡ Github Stats ⚡</h3>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-hr&show_icons=true&theme=tokyonight&locale=en" alt="carlos-hr" />
-  &nbsp;
-  &nbsp;
+<p align="center">
+   </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=carlos-hr&show_icons=true&theme=tokyonight&locale=en" alt="carlos-hr" />
 </p>
