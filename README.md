@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, my name is Carlos Henrique</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="center"> - 🌱 Full Stack developer currently working as **Front-End** </p>
-<p align="center"> - 📫 Reach me out here: **carlos.henrique17.chr@gmail.com** </p>
+<p align="center"> - 🌱 Full Stack developer currently working as Front-End </p>
+<p align="center"> - 📫 Reach me out here: carlos.henrique17.chr@gmail.com </p>
 
 </br>
 
