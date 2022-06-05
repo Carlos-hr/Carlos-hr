@@ -11,7 +11,7 @@
     <a href="https://linkedin.com/in/carloshenrique-rodrigues/" target="blank">
         <img " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carloshenrique-rodrigues/" height="30" width="40" />
     </a>
-    <a href="https://www.hackerrank.com/carlos-hr" target="blank">
+    <a href="https://www.hackerrank.com/carlos_hr" target="blank">
         <img " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="carlos-hr" height="30" width="40" />
     </a>
 </p>
