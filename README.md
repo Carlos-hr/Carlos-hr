@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=carlos-hr)
 <h1 align="center">Hi 👋, my name is Carlos Henrique</h1>
 <h3 align="center">Full Stack Developer</h3>
 
